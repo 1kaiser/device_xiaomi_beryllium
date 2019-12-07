@@ -14,4 +14,4 @@ export VENDOR=xiaomi
 
 export DEVICE_BRINGUP_YEAR=2018
 
-"./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"
+"./../../${VENDOR}/${DEVICE}/setup-makefiles.sh" "$@"
